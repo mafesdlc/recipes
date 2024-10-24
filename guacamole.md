@@ -6,5 +6,7 @@
 * coriander
 * Pepper
 * Chili
+* Beens
+* Crema agria
 ## Instructions
 
