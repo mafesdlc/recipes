@@ -1,3 +1,8 @@
 *.png
+# keeping the final figure
+!final.png
 receipts/
+!receipts/data
+
+
 
